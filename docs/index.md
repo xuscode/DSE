@@ -1,6 +1,6 @@
-# 欢迎来到题库世界
+# Welcome to the world of question banks
 
-人生苦短，我有题库
+Life is short. I have a question bank!
 
-以后大家考试，都把题库复制到txt 中，我会汇总题库上传到网站上；
+In the future, Everyone can copy the question bank to txt, and I will summarize the question bank and upload it this website;
 
