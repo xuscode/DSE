@@ -3,7 +3,7 @@
 ---
 
 True or False: The following is a good qualifying question for Collaborative Design Industry Process Experiences:  Do you lose design continuity because you're constantly importing and exporting design data from one system to another?
-A.**True** B.False
+A.**<u>True**</u> B.False
 
 QQ:A
 
@@ -12,20 +12,20 @@ QQ:A
 Collaborative Design Industry Process Experiences solve which CAD data problem
 
 A.How to keep traditional engineering practices in place
-B.How to enable designer collaboration, even when they use different CAD applications
+B.<u>**How to enable designer collaboration, even when they use different CAD applications**</u>
 C.How to keep mechanical and electronic CAD data separate
 QQ:B
 
 ---
 
 True or False: Connecting a multi-CAD environment to the 3DEXPERIENCE platform is essential for Model Based Engineering
-A.True  B.False
+A.<u>**True**</u>  B.False
 QQ:A
 
 ---
 
 A client wants a Collaborative Design Industry Process Experience when
-A.they want a neat way of keeping MCAD and ECAD stored separately
+A.**<u>they want a neat way of keeping MCAD and ECAD stored separately</u>**
 B.they want to embrace Model Based Engineering (and all of the related benefits)
 QQ:A
 
@@ -34,7 +34,7 @@ QQ:A
 A client wants a Collaborative Design Industry Process Experience when
 
 A.they want an easier way to manage their marketing products
-B.they want a single environment for multi-CAD / design authoring solutions
+B.<u>**they want a single environment for multi-CAD / design authoring solutions**</u>
 QQ:B
 
 ---

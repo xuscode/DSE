@@ -2,12 +2,6 @@
 
 ## LAN
 
-
-
-
-
-
-
 SYS-LAN-1:
 What is the reason for changing global environment?
 A.Ever growing government rules and regulations
@@ -17,8 +11,6 @@ B.Advances in technology and new scientific discoveries
 C.Lack of access to new tools and technologies
 
 D.Abundance of renewable energy resources
-
-
 
 SYS-LAN-2:
 What factors are challenging nations around the globe?
@@ -38,8 +30,6 @@ C.Products and services are not available for everyday use
 
 D.Products and services are now transforming into smart connected systems
 
-
-
 SYS-LAN-4:
 What is needed to create smart connected systems?
 A.Faster internet and connectivity
@@ -47,13 +37,9 @@ B.A science based approach
 C.A group of talented individuals specializing in design
 D.Sophisticated tools and devices to share data
 
-
-
 SYS-LAN-5:
 What kind of approach is followed in systems engineering?
 A.Repetitive and hardworking approach in which maximum tools are usedB.Singular approach where everyone is working on same part individuallyC.Focusing only on one single topic at a timeD.Transdisciplinary, collaborative and integrative
-
-
 
 SYS-LAN-18:
 What happens when organizations are thinking in silos?
@@ -96,13 +82,9 @@ C.Because of breaking down the problem into smaller details
 D.Because of rising inflation in market
 答案：
 
-
-
 ---
 
 ## USR
-
-
 
 SYS-USR-7:
 What is a top challenge for systems engineers?
@@ -111,8 +93,6 @@ B.Discarding previous knowledge to create and share new knowledge
 C.Capturing an environment of trust and ethical values
 D.Maintaining knowledge among the rising complexity
 答案：
-
-
 
 ## VAL
 
@@ -165,8 +145,6 @@ D.It creates new silos which are more specific and focused
 
 答案
 
-
-
 ## BUS
 
 SYS-BUS-8:
@@ -210,10 +188,6 @@ B.By depending on the information provided by head of organization
 C.By solely following the systems engineering handbook
 D.By using best  practices to define and maintain the system
 
-
-
 SYS-USR-6:
 How do systems engineers reach the optimized solution?
 A.By gathering input from multiple sources and teamsB.By capturing right collaboration across people and across disciplinesC.By creating and managing different versions of dataD.By performing repetitive testing and validation of systems
-
-

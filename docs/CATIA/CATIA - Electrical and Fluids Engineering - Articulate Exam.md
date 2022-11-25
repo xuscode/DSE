@@ -12,7 +12,6 @@ ELF-LAN-2:
 Today electrical engineering is not same as before, how has it changed?
 A.By becoming multidisciplinary for all engineering processesB.It has become the only domain related to systems engineeringC.By deeply focusing on single topic of electrical engineeringD.By solving the challenges by defining only few requirements
 
-
 ELF-LAN-3:
 Why is sustainability important for electrical engineering?
 A.Cheaper products save electricityB.Changing methods continuously saves effortC.To be able to serve future needsD.Better products set up new market trends
@@ -50,7 +49,6 @@ What is the right way of data management to save time and effort?
 A.By printing all the documentsB.By organizing knowledge documentationC.By separating knowledge for teamsD.By sharing different versions of data
 QQ:D ERROR ,
 
-
 ELF-LAN-19:
 What will ensure right manufacturing of an electrical harness?
 A.Design fulfilling all requirements
@@ -63,7 +61,6 @@ B、 仅以2D绘制设计
 C、 制造前的营销和销售
 D、 复制线束副本
 QQ:A
-
 
 ELF-LAN-20:
 Why are products changing into smart connected systems?
@@ -82,8 +79,6 @@ ELF-LAN-24:
 Why is innovation a continuous process for any organization?
 A.All products need a heavy reworkB.All products keep improvising to create new needsC.All products need to be replacedD.All products require constant support
 
-
-
 ELF-LAN-25:
 What happens when teams and individuals are working separately?
 A.They get a clear understandingB.They start taking right decisionsC.They get perfect customer needsD.They break the process
@@ -91,6 +86,7 @@ A.They get a clear understandingB.They start taking right decisionsC.They get pe
 QQ:D
 
 ----------------------------
+
 ELF-USE-2:
 What is the mission of fluids engineers?
 A.Create planning and pathways for flow of chemicalsB.Design and engineer electrical and fluids systemsC.Design, engineer and maintain fluids based systemsD.Handle the complexity in chemical engineering
@@ -133,7 +129,6 @@ CATIA customers create world class products with…
 A.Physical twins of productsB.Free style design without any standardsC.Standards based design to match all needsD.Design only in 2D environment
 QQ:C
 
-
 ELF-VAL-2:
 What makes CATIA robust and reliable?
 A.Multiple sources and methods of designingB.Use of CATIA for marketing contents creationC.Model based design to fulfill all system needsD.Free support from any CATIA expert
@@ -149,7 +144,6 @@ What does CATIA promise for success in electrical and fluids engineering?
 A.Connect the software with physical prototype of systemsB.By complete manual process for design and engineeringC.Different solutions to access from different devicesD.Defining and optimizing the systems with zero defect engineering
 QQ:D
 
-
 ELF-VAL-5:
 3DEXPERIENCE CATIA will deliver collaborative success in all projects with…
 A.various sources of design dataB.Integrated end to end processC.different solutions for each teamD.multiple simple sources of truth
@@ -159,7 +153,6 @@ ELF-VAL-6:
 CATIA drives efficiency through the entire product lifecycle with...
 A.2D Digital ScanningB.New sales offersC.Events and gatheringsD.Digital continuity
 QQ:D
-
 
 ELF-VAL-7:
 What can be an opportunity to innovate?
@@ -232,6 +225,3 @@ A、 提供一个免费的解决方案，并证明两个解决方案可以更好
 B、 3DEXPERIENCE CATIA是模块化的，可以逐步采用
 C、 分别提供电气和流体解决方案
 D、 仅根据客户要求提供特定的解决方案
-
-
-
