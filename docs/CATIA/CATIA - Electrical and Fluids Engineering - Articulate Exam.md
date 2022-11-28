@@ -1,23 +1,39 @@
 # CATIA - Electrical and Fluids Engineering - Articulate Exam
 
-ELF-LAN-1:
+## ELF-LAN-1:
+
 Modern advances in electrical and fluids engineering focus on creating…
-A.Light systemsB.Fluid systemsC.Smart systemsD.Simpler systems
-ELF-LAN-1：
-电气和流体工程的现代进展集中在创造…
-A、 照明系统B。流体系统C。智能系统D。更简单的系统
-QQ:C
 
-ELF-LAN-2:
+    A.Light systems
+    B.Fluid systems
+    C.Smart systems
+    D.Simpler systems
+    ELF-LAN-1：
+    电气和流体工程的现代进展集中在创造…
+    A、 照明系统B。流体系统C。智能系统D。更简单的系统
+    QQ:C
+
+## ELF-LAN-2:
+
 Today electrical engineering is not same as before, how has it changed?
-A.By becoming multidisciplinary for all engineering processesB.It has become the only domain related to systems engineeringC.By deeply focusing on single topic of electrical engineeringD.By solving the challenges by defining only few requirements
 
-ELF-LAN-3:
+    A.By becoming multidisciplinary for all engineering processes
+    B.It has become the only domain related to systems engineering
+    C.By deeply focusing on single topic of electrical engineering
+    D.By solving the challenges by defining only few requirements
+
+## ELF-LAN-3:
+
 Why is sustainability important for electrical engineering?
-A.Cheaper products save electricityB.Changing methods continuously saves effortC.To be able to serve future needsD.Better products set up new market trends
-QQ:C
+
+    A.Cheaper products save electricity
+    B.Changing methods continuously saves effort
+    C.To be able to serve future needs
+    D.Better products set up new market trends
+    QQ:C
 
 ELF-LAN-5:
+
 Why does ideal quality, cost and time drive the success in electrical and fluids?
 A.Increasing usage demands faster and safer productsB.Quality, cost, time are the only challengesC.All people are aimed at making products cheapD.Good quality is always related to more cost
 
