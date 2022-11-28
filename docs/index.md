@@ -8,3 +8,12 @@ In the future, Everyone can copy the question bank to txt, and I will summarize 
 
 
 
+## 本地使用
+
+安装python，然后运行下面代码安装主题
+
+```bash
+pip install mkdocs-material
+
+```
+然后启动start.bat 即可
