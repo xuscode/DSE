@@ -1,19 +1,21 @@
 # HOME
 
-Welcome to the world of question banks
+欢迎来到题库的世界
 
-Life is short. I have a question bank!
+人生苦短。我有一个问题库!
 
-In the future, Everyone can copy the question bank to txt, and I will summarize the question bank and upload it this website;
-
-
+以后大家可以将题库复制到txt，我们将对题库进行总结并上传到本网站;
 
 ## 本地使用
 
 安装python，然后运行下面代码安装主题
 
 ```bash
+
+pip install mkdocs
 pip install mkdocs-material
+pip install mkdocs-material-extensions
+pip install mkdocs-video
 
 ```
 然后启动start.bat 即可
